@@ -1,3 +1,3 @@
-# AshuFlix (MERN-MOVIE)
+# MuditFlix (MERN-MOVIE)
 
 Fronted (Client)
